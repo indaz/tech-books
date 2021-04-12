@@ -25,4 +25,12 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 
 [Practical System Reliability](https://files.idax.me/read/tech-books/P/practical-system-reliability.pdf). by _Eric Bauer, Xuemei Zhang, Douglas A. Kimber_
 
+[Reactive Design Patterns](https://files.idax.me/read/tech-books/R/reactive-design-patterns.pdf). by _Roland Kuhn_
+
+[Reactive Microsystems](https://files.idax.me/read/tech-books/R/reactive-microsystems.pdf) - the evolution of microservices at scale. by _Jonas Bonér_
+
 [Seven Concurrency Models in Seven Weeks](https://files.idax.me/read/tech-books/S/seven-concurrency-models-in-seven-weeks.pdf) - when threads unravel. by _Paul Butcher_
+
+[Site Reliability Engineering](https://files.idax.me/read/tech-books/S/site-reliability-engineering.pdf) - how Google runs production systems. by _Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy_
+
+[The Site Reliability Workbook](https://files.idax.me/read/tech-books/S/site-reliability-workbook.pdf) - practical ways to implement SRE. by _Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne_
