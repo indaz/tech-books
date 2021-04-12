@@ -23,8 +23,6 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 
 [Documenting Software Architectures](https://files.idax.me/read/tech-books/D/documenting-software-architectures.pdf) - views and beyond. 2nd Edition. by _Paul Clements, Felix Bachmann, Len Bass, David Garlan, James Ivers, Reed Little, Paulo Merson, Robert Nord, Judith Stafford_
 
-[Exploring CQRS and Event Sourcing](https://files.idax.me/read/tech-books/E/exploring-cqrs-and-event-sourcing.pdf) - A journey into high scalability, availability, and maintainability with Windows Azure. by _Dominic Betts, Julián Domínguez, Grigori Melnik, Fernando Simonazzi, Mani Subramanian_
-
 [Practical System Reliability](https://files.idax.me/read/tech-books/P/practical-system-reliability.pdf). by _Eric Bauer, Xuemei Zhang, Douglas A. Kimber_
 
 [Reactive Design Patterns](https://files.idax.me/read/tech-books/R/reactive-design-patterns.pdf). by _Roland Kuhn_
@@ -41,3 +39,7 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 ## Domain-Driven Design
 
 [Domain-Driven Design](https://files.idax.me/read/tech-books/D/domain-driven-design-eric-evans.pdf) - tackling complexity in the heart of software. by _Eric Evans_
+
+[Domain-Driven Design Reference](https://files.idax.me/read/tech-books/D/domain-driven-design-reference-eric-evans.pdf) - definitions	and	pattern	summaries. by _Eric Evans_
+
+[Exploring CQRS and Event Sourcing](https://files.idax.me/read/tech-books/E/exploring-cqrs-and-event-sourcing.pdf) - A journey into high scalability, availability, and maintainability with Windows Azure. by _Dominic Betts, Julián Domínguez, Grigori Melnik, Fernando Simonazzi, Mani Subramanian_
