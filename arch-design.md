@@ -42,4 +42,6 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 
 [Domain-Driven Design Reference](https://files.idax.me/read/tech-books/D/domain-driven-design-reference-eric-evans.pdf) - definitions	and	pattern	summaries. by _Eric Evans_
 
+[Domain-Driven Design Distilled](https://files.idax.me/read/tech-books/D/domain-driven-design-distilled.pdf). by _Vaughn Vernon_
+
 [Exploring CQRS and Event Sourcing](https://files.idax.me/read/tech-books/E/exploring-cqrs-and-event-sourcing.pdf) - A journey into high scalability, availability, and maintainability with Windows Azure. by _Dominic Betts, Julián Domínguez, Grigori Melnik, Fernando Simonazzi, Mani Subramanian_
