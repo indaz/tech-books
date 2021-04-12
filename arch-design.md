@@ -13,10 +13,6 @@
 [Building Secure & Reliable Systems](https://files.idax.me/read/tech-books/B/building-secure-and-reliable-systems.pdf) - best practices for designing, implementing
 and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea and Adam Stubblefield_
 
-[Cloud Architecture Patterns](https://files.idax.me/read/tech-books/C/cloud-architecture-patterns.pdf) - develop cloud-native applications. by _Bill Wilder_
-
-[Cloud Native Development Patterns and Best Practices](https://files.idax.me/read/tech-books/C/cloud-native-development-patterns-and-best-practices.pdf) - practical architectural patterns for building modern, distributed cloud-native systems. by _John Gilbert_
-
 [Designing Distributed Systems](https://files.idax.me/read/tech-books/D/designing-distributed-systems.pdf) - patterns and paradigms for scalable, reliable services. by _Brendan Burns_
 
 [Designing Event-Driven Systems](https://files.idax.me/read/tech-books/D/designing-event-driven-systems-concepts-and-patterns-kafka.pdf) - concepts and patterns for streaming services with Apache Kafka. by _Ben Stopford_
@@ -34,6 +30,16 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 [Site Reliability Engineering](https://files.idax.me/read/tech-books/S/site-reliability-engineering.pdf) - how Google runs production systems. by _Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy_
 
 [The Site Reliability Workbook](https://files.idax.me/read/tech-books/S/site-reliability-workbook.pdf) - practical ways to implement SRE. by _Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne_
+
+
+## Cloud Native
+
+[Cloud Architecture Patterns](https://files.idax.me/read/tech-books/C/cloud-architecture-patterns.pdf) - develop cloud-native applications. by _Bill Wilder_
+
+[Cloud Design Patterns](https://files.idax.me/read/tech-books/C/cloud-design-patterns-book.pdf) - prescriptive architecture guidance for cloud applications. by _Alex Homer, John Sharp, Larry Brader, Masashi Narumoto, Trent Swanson_
+
+[Cloud Native Development Patterns and Best Practices](https://files.idax.me/read/tech-books/C/cloud-native-development-patterns-and-best-practices.pdf) - practical architectural patterns for building modern, distributed cloud-native systems. by _John Gilbert_
+
 
 
 ## Domain-Driven Design
