@@ -21,6 +21,8 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 
 [Designing Event-Driven Systems](https://files.idax.me/read/tech-books/D/designing-event-driven-systems-concepts-and-patterns-kafka.pdf) - concepts and patterns for streaming services with Apache Kafka. by _Ben Stopford_
 
+[Documenting Software Architectures](https://files.idax.me/read/tech-books/D/documenting-software-architectures.pdf) - views and beyond. 2nd Edition. by _Paul Clements, Felix Bachmann, Len Bass, David Garlan, James Ivers, Reed Little, Paulo Merson, Robert Nord, Judith Stafford_
+
 [Exploring CQRS and Event Sourcing](https://files.idax.me/read/tech-books/E/exploring-cqrs-and-event-sourcing.pdf) - A journey into high scalability, availability, and maintainability with Windows Azure. by _Dominic Betts, Julián Domínguez, Grigori Melnik, Fernando Simonazzi, Mani Subramanian_
 
 [Practical System Reliability](https://files.idax.me/read/tech-books/P/practical-system-reliability.pdf). by _Eric Bauer, Xuemei Zhang, Douglas A. Kimber_
@@ -34,3 +36,8 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 [Site Reliability Engineering](https://files.idax.me/read/tech-books/S/site-reliability-engineering.pdf) - how Google runs production systems. by _Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy_
 
 [The Site Reliability Workbook](https://files.idax.me/read/tech-books/S/site-reliability-workbook.pdf) - practical ways to implement SRE. by _Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne_
+
+
+## Domain-Driven Design
+
+[Domain-Driven Design](https://files.idax.me/read/tech-books/D/domain-driven-design-eric-evans.pdf) - tackling complexity in the heart of software. by _Eric Evans_
