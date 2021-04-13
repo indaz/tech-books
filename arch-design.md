@@ -23,6 +23,8 @@ structure and design. by _Robert C. Martin_
 
 [Reactive Microsystems](https://files.idax.me/read/tech-books/R/reactive-microsystems.pdf) - the evolution of microservices at scale. by _Jonas Bonér_
 
+[Release It!](https://files.idax.me/read/tech-books/R/release-it.pdf) - design and deploy production-ready software. by _Michael T. Nygard_
+
 [Seven Concurrency Models in Seven Weeks](https://files.idax.me/read/tech-books/S/seven-concurrency-models-in-seven-weeks.pdf) - when threads unravel. by _Paul Butcher_
 
 [Software Design for Resilient Computer Systems](https://files.idax.me/read/tech-books/S/software-design-for-resilient-computer-systems.pdf) by _Igor Schagaev, Thomas Kaegi-Trachsel_
@@ -79,6 +81,8 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 [Designing High Availability Systems](https://files.idax.me/read/tech-books/D/designing-high-availability-systems.pdf) - design for six sigma and classical reliability techniques with practical real-life examples. by _Zachary Taylor, Subramanyam Ranganathan_
 
 [Practical System Reliability](https://files.idax.me/read/tech-books/P/practical-system-reliability.pdf). by _Eric Bauer, Xuemei Zhang, Douglas A. Kimber_
+
+[Resilience and Reliability on AWS](https://files.idax.me/read/tech-books/R/resilience-and-reliability-on-aws.pdf) - engineering at cloud scale. by _Jurg van Vliet, Flavia Paganelli, Jasper Geurtsen_
 
 [Site Reliability Engineering](https://files.idax.me/read/tech-books/S/site-reliability-engineering.pdf) - how Google runs production systems. by _Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy_
 
