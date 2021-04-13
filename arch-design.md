@@ -25,6 +25,8 @@ structure and design. by _Robert C. Martin_
 
 [Seven Concurrency Models in Seven Weeks](https://files.idax.me/read/tech-books/S/seven-concurrency-models-in-seven-weeks.pdf) - when threads unravel. by _Paul Butcher_
 
+[Software Design for Resilient Computer Systems](https://files.idax.me/read/tech-books/S/software-design-for-resilient-computer-systems.pdf) by _Igor Schagaev, Thomas Kaegi-Trachsel_
+
 
 
 ## Cloud Native
@@ -36,6 +38,8 @@ structure and design. by _Robert C. Martin_
 [Cloud Native Architectures](https://files.idax.me/read/tech-books/C/cloud-native-architectures.pdf) - design high-availability and cost-effective applications for the cloud. by _Tom Laszewski, Kamal Arora, Erik Farr, Piyum Zonooz_
 
 [Cloud Native Development Patterns and Best Practices](https://files.idax.me/read/tech-books/C/cloud-native-development-patterns-and-best-practices.pdf) - practical architectural patterns for building modern, distributed cloud-native systems. by _John Gilbert_
+
+[Implementing Cloud Design Patterns for AWS](https://files.idax.me/read/tech-books/I/implementing-cloud-design-patterns-for-aws.pdf) - create highly efficient design patterns for scalability, redundancy, and high availability in the AWS Cloud. by _Marcus Young_
 
 [Migrating to Cloud-Native Application Architectures](https://files.idax.me/read/tech-books/M/migrating-to-cloud-native-application-architectures.pdf). by _Matt Stine_
 
@@ -49,7 +53,17 @@ structure and design. by _Robert C. Martin_
 
 [Domain-Driven Design Distilled](https://files.idax.me/read/tech-books/D/domain-driven-design-distilled.pdf). by _Vaughn Vernon_
 
+[Domain-Driven Design in Action](https://files.idax.me/read/tech-books/D/domain-driven-design-in-action.pdf) - designing an identity provider. by _Klaus Byskov Hoffmann_
+
+[Domain-Driven Design Pattern Summaries](https://files.idax.me/read/tech-books/D/domain-driven-design-pattern-summaries.pdf) - excerpted from Domain-Driven Design: Tackling Complexity in the Heart of Software, by _Eric Evans_, Addison-Wesley 2004.
+
+[Domain-Driven Design Quickly](https://files.idax.me/read/tech-books/D/domain-driven-design-quickly.pdf) by _Abel Avram,  Floyd Marinescu_
+
+[Domain-Driven Design Using Naked Objects](https://files.idax.me/read/tech-books/D/domain-driven-design-using-naked-objects.pdf) by _Dan Haywood_
+
 [Exploring CQRS and Event Sourcing](https://files.idax.me/read/tech-books/E/exploring-cqrs-and-event-sourcing.pdf) - A journey into high scalability, availability, and maintainability with Windows Azure. by _Dominic Betts, Julián Domínguez, Grigori Melnik, Fernando Simonazzi, Mani Subramanian_
+
+[Implementing Domain-Driven Design](https://files.idax.me/read/tech-books/I/implementing-domain-driven-design.pdf) by _Vaughn Vernon_ 
 
 [Introducing Eventstorming](https://files.idax.me/read/tech-books/I/introducing-eventstorming.pdf) - an act of deliberate collective learning. by _Alberto Brandolini_
 
