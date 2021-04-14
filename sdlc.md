@@ -14,6 +14,8 @@
 
 ## Deploying to Production
 
+[Chef Infrastructure Automation Cookbook](https://files.idax.me/read/tech-books/C/chef-infrastructure-automation-cookbook.pdf) - over 80 delicious recipes to automate your cloud and server infrastructure with Chef. by _Matthias Marschall_
+
 [Continuous Delivery](https://files.idax.me/read/tech-books/C/continuous-delivery.pdf) by _Jez Humble, David Farley_
 
 [Continuous Delivery with Spinnaker](https://files.idax.me/read/tech-books/C/continuous-delivery-with-spinnaker.pdf) - fast, safe, repeatable multi-cloud deployments. by _Emily Burns, Asher Feldman, Rob Fletcher, Tomas Lin, Justin Reynolds, Chris Sanden, Lars Wander, Rob Zienert_
