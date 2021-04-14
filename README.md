@@ -4,6 +4,6 @@ A (large) collection of books related to software development techniques, tools,
 
 [Architecture and Design](arch-design.md)
 
-[User Experience Design and Development](user-experience.md)
+[User Experience and Front-end Development](user-experience.md)
 
 [System Development Life-Cycle](sdlc.md)

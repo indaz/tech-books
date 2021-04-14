@@ -8,11 +8,6 @@
 
 [Building Evolutionary Architectures](https://files.idax.me/read/tech-books/B/building-evolutionary-architectures.pdf) - support constant change. by _Neal Ford, Rebecca Parsons, and Patrick Kua_
 
-[Clean Architecture](https://files.idax.me/read/tech-books/C/clean-architecture.pdf) - a craftsman's guide to software
-structure and design. by _Robert C. Martin_
-
-[Clean Architecture](https://files.idax.me/read/tech-books/C/clean-architecture-2.pdf) - advanced and effective strategies using clean architecture principles. by _Elijah Lewis_
-
 [Designing Distributed Systems](https://files.idax.me/read/tech-books/D/designing-distributed-systems.pdf) - patterns and paradigms for scalable, reliable services. by _Brendan Burns_
 
 [Designing Event-Driven Systems](https://files.idax.me/read/tech-books/D/designing-event-driven-systems-concepts-and-patterns-kafka.pdf) - concepts and patterns for streaming services with Apache Kafka. by _Ben Stopford_
@@ -28,6 +23,17 @@ structure and design. by _Robert C. Martin_
 [Seven Concurrency Models in Seven Weeks](https://files.idax.me/read/tech-books/S/seven-concurrency-models-in-seven-weeks.pdf) - when threads unravel. by _Paul Butcher_
 
 [Software Design for Resilient Computer Systems](https://files.idax.me/read/tech-books/S/software-design-for-resilient-computer-systems.pdf) by _Igor Schagaev, Thomas Kaegi-Trachsel_
+
+
+
+## Clean Architecture
+
+[Clean Architecture](https://files.idax.me/read/tech-books/C/clean-architecture.pdf) - a craftsman's guide to software
+structure and design. by _Robert C. Martin_
+
+[Clean Architecture](https://files.idax.me/read/tech-books/C/clean-architecture-2.pdf) - advanced and effective strategies using clean architecture principles. by _Elijah Lewis_
+
+[Get Your Hands Dirty on Clean Architecture](https://files.idax.me/read/tech-books/G/get-dirty-on-clean-architecture.pdf) - a hands-on guide to creating clean Web applications with code examples in Java. by _Tom Hombergs_
 
 
 
