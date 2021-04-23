@@ -22,8 +22,6 @@
 
 [Seven Concurrency Models in Seven Weeks](https://files.idax.me/read/tech-books/S/seven-concurrency-models-in-seven-weeks.pdf) - when threads unravel. by _Paul Butcher_
 
-[Software Design for Resilient Computer Systems](https://files.idax.me/read/tech-books/S/software-design-for-resilient-computer-systems.pdf) by _Igor Schagaev, Thomas Kaegi-Trachsel_
-
 
 
 ## Clean Architecture
@@ -93,5 +91,9 @@ and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piot
 [Resilience and Reliability on AWS](https://files.idax.me/read/tech-books/R/resilience-and-reliability-on-aws.pdf) - engineering at cloud scale. by _Jurg van Vliet, Flavia Paganelli, Jasper Geurtsen_
 
 [Site Reliability Engineering](https://files.idax.me/read/tech-books/S/site-reliability-engineering.pdf) - how Google runs production systems. by _Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy_
+
+[Software Design for Resilient Computer Systems](https://files.idax.me/read/tech-books/S/software-design-for-resilient-computer-systems.pdf) by _Igor Schagaev, Thomas Kaegi-Trachsel_
+
+[Software Engineering for Resilient Systems](https://files.idax.me/read/tech-books/S/software-engineering-for-resilient-systems-3rd-intl-ws.pdf) - Third International Workshop, SERENE 2011 Geneva, Switzerland, September 29-30, 2011 Proceedings
 
 [The Site Reliability Workbook](https://files.idax.me/read/tech-books/S/site-reliability-workbook.pdf) - practical ways to implement SRE. by _Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne_
