@@ -84,6 +84,8 @@ structure and design. by _Robert C. Martin_
 [Building Secure & Reliable Systems](https://files.idax.me/read/tech-books/B/building-secure-and-reliable-systems.pdf) - best practices for designing, implementing
 and maintaining systems. by _Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea and Adam Stubblefield_
 
+[Chaos Engineering](https://files.idax.me/read/tech-books/C/chaos-engineering.pdf) - System Resiliency in Practice. by _Casey Rosenthal, Nora Jones_
+
 [Designing High Availability Systems](https://files.idax.me/read/tech-books/D/designing-high-availability-systems.pdf) - design for six sigma and classical reliability techniques with practical real-life examples. by _Zachary Taylor, Subramanyam Ranganathan_
 
 [Practical System Reliability](https://files.idax.me/read/tech-books/P/practical-system-reliability.pdf). by _Eric Bauer, Xuemei Zhang, Douglas A. Kimber_
